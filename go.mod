@@ -1,4 +1,4 @@
-module github.com/taheralla/hello
+module github.com/taherallaa/hello
 
 go 1.24.5
 
